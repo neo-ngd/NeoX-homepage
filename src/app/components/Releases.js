@@ -3,6 +3,17 @@ import React from "react"
 export default function Releases() {
     const releases = [
         {
+            "date": "15/07/2024",
+            "title": "Gamma TestNet Launch",
+            "url": "https://medium.com/neo-smart-economy/neo-launches-the-neo-x-beta-testnet-0b861b3dd366",
+            "logs": [
+                "New model for network transaction fee calculation and burning",
+                "Enhanced system contracts for governance",
+                "Transaction reannouncement mechansism",
+                "Security and stability fixes",
+            ]
+        },
+        {
             "date": "22/04/2024",
             "title": "Beta TestNet Launch",
             "url": "https://medium.com/neo-smart-economy/neo-launches-the-neo-x-beta-testnet-0b861b3dd366",
@@ -45,7 +56,7 @@ export default function Releases() {
         const carousel = document.getElementById("release-scrollable-div")
         const leftButton = document.getElementById("release-left-button")
         const rightButton = document.getElementById("release-right-button")
-        
+
         leftButton.disabled = true
 
 
@@ -66,11 +77,11 @@ export default function Releases() {
         }
         carousel.addEventListener('scroll', updateButtons);
 
-        leftButton.addEventListener('click', function(){
+        leftButton.addEventListener('click', function () {
             carousel.scrollBy({ top: 0, left: -288, behavior: 'smooth' })  //w-72 = 288
         })
 
-        rightButton.addEventListener('click', function(){
+        rightButton.addEventListener('click', function () {
             carousel.scrollBy({ top: 0, left: 288, behavior: 'smooth' })  //w-72 = 288
         })
     }, [])
@@ -117,7 +128,7 @@ export default function Releases() {
 
                     {
                         releases.map((r, index) => (
-                            <a  href={r.url} target="_blank" key={` release-${index}`} className="snap-center w-full min-w-72  border rounded-2xl bg-white p-8 flex flex-col gap-3 group hover:shadow-lg transition ease-in-out duration-300 hover:cursor-pointer">
+                            <a href={r.url} target="_blank" key={` release-${index}`} className="snap-center w-full min-w-72  border rounded-2xl bg-white p-8 flex flex-col gap-3 group hover:shadow-lg transition ease-in-out duration-300 hover:cursor-pointer">
                                 <div className="flex items-center">
                                     <p className="opacity-70">{r.date}</p>
                                     <button className="ml-auto opacity-0 group-hover:opacity-100 transition ease-in-out duration-300 hover:cursor-pointer">
@@ -135,7 +146,7 @@ export default function Releases() {
                                 <p className="font-semibold lg:text-lg hover:underline">
                                     {r.title}
                                 </p>
-                                <ul className="list-disc list-inside text-[#404056] space-y-3">
+                                <ul className="list-disc list-outside text-[#404056] space-y-3">
                                     {
                                         r.logs.map((log, logIndex) => (
                                             <li className="font-medium" key={`release-${index}-log-${logIndex}`}>{log}</li>
