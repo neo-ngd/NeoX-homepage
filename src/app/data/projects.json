@@ -1,0 +1,313 @@
+[
+    {
+        "icon_url": "/assets/projects/subquery.png",
+        "title": "SubQuery",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://subquery.network/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://twitter.com/subquerynetwork"
+            },
+            {
+                "title": "GitHub",
+                "url": "https://github.com/subquery"
+            }
+        ],
+        "tags": [
+            "Infrastructure"
+        ],
+        "networks": [
+            
+        ],
+        "description": "SubQuery Network is innovating web3 infrastructure with tools that empower builders to decentralise the future. Our fast, flexible, and open data indexer supercharges dApps on over 200 networks, enabling a user-focused web3 world. Soon, our Data Node will provide breakthroughs in the RPC industry, and deliver decentralisation without compromise. We pioneer the web3 revolution for visionaries and forward-thinkers. We’re not just a company — we’re a movement driving an inclusive and decentralised web3 era. Let’s shape the future of web3, together."
+    },
+    {
+        "icon_url": "/assets/projects/tria.png",
+        "title": "Tria",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://www.tria.so/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/useTria"
+            }
+        ],
+        "tags": [
+            "Infrastructure"
+        ],
+        "networks": [],
+        "description": "Tria – Unify user assets with aggregated social login wallets. Enable users to pay gas with any token and bring assets from other ecosystems to your dApp with chain abstraction."
+    },
+    {
+        "icon_url": "/assets/projects/mystiko.png",
+        "title": "Mystiko",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://mystiko.network/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/MystikoNetwork"
+            },
+            {
+                "title": "GitHub",
+                "url": "https://github.com/mystikonetwork"
+            }
+        ],
+        "tags": [
+            "Infrastructure"
+        ],
+        "networks": [],
+        "description": "Mystiko is the base layer of Web3. Mystiko operates as a universal ZK SDK, enhancing the scalability, interoperability, and security of blockchains. Mystiko’s SDK enables developers to build blockchain applications that reduce costs, scale effortlessly, securely interact across chains, and protect users’ on-chain identity(account balances, transaction histories, etc.)."
+    },
+    {
+        "icon_url": "/assets/projects/pop-planet.png",
+        "title": "Pop Planet",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://popp.club/home"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/Hi_PoPPOfficial"
+            }
+        ],
+        "tags": [
+            "SocialFi"
+        ],
+        "networks": [],
+        "description": "PoPP is a Web3 project dedicated to building a decentralized social identity and community management system for users."
+    },
+    {
+        "icon_url": "/assets/projects/oort.png",
+        "title": "OORT",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://www.oortech.com/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/oortech"
+            },
+            {
+                "title": "GitHub",
+                "url": "https://github.com/oort-tech"
+            }
+        ],
+        "tags": [
+            "Infrastructure"
+        ],
+        "networks": [],
+        "description": "OORT is a decentralized verifiable cloud computing platform for AI applications. \n\nOur network leverages global resources from data centers to local edge devices with a proprietary blockchain-based verification layer to secure all transactions and computations, from data crowdsourcing and labeling, to model training and local inference. \n\nBy harnessing the power of decentralized networks, OORT aims to return value to users while creating a more scalable and equitable future for AGI (Artificial General Intelligence)."
+    },
+    {
+        "icon_url": "/assets/projects/zns.png",
+        "title": "ZNS Connect",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://www.znsconnect.io/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/ZNSConnect"
+            },
+            {
+                "title": "GitHub",
+                "url": "https://github.com/ZNS-Connect"
+            }
+        ],
+        "tags": [
+            "Infrastructure"
+        ],
+        "networks": [],
+        "description": "ZNS Connect is your go-to platform for seamless Web3 interactions. It simplifies the complexity of Web3 by replacing cumbersome addresses with user-friendly names, making it a breeze for users to navigate and transact."
+    },
+    {
+        "icon_url": "/assets/projects/rangers-protocol.png",
+        "title": "Rangers Protocol",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://rangersprotocol.com/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/rangersprotocol"
+            },
+            {
+                "title": "GitHub",
+                "url": "https://github.com/rangersprotocol"
+            }
+        ],
+        "tags": [
+            "Infrastructure"
+        ],
+        "networks": [],
+        "description": "Rangers Protocol is the backbone of a Web3 Engine for creating immersive Web3 applications. It provides comprehensive infrastructures for complex blockchain-application development, efficient Ethereum-compatible smart contract deployment, ultimate NFT cross-chain interoperability, and developer-friendly IDEs. Through building strategic partnerships in relevant industries, Rangers Protocol supports blockchain entrepreneurs to succeed in the Web3 world. Rangers Protocol minimizes the development difficulty for Web3 developers and maximizes the user experience of its Web3 applications."
+    },
+    {
+        "icon_url": "/assets/projects/echooo.png",
+        "title": "echooo",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://www.echooo.xyz/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/echooo_wallet"
+            }
+        ],
+        "tags": [
+            "Wallet"
+        ],
+        "networks": [],
+        "description": "Echooo is a self-custodial AA wallet that will bring a smooth and secure asset management experience to Neo X users! "
+    },
+    {
+        "icon_url": "/assets/projects/gate-wallet.png",
+        "title": "Gate Wallet",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://www.gate.io/web3"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/gate_io"
+            }
+        ],
+        "tags": [
+            "Wallet"
+        ],
+        "networks": [],
+        "description": "Gate.io Web3 multi-terminal encrypted wallet.\n\nWith Gate Wallet, you can easily manage assets across over 100+ different blockchain networks, access millions of cryptocurrencies, and interact with tens of thousands of DApps. It allows one-click connection with the Web3 ecosystem, without the need to switch wallets frequently.\n\nGate Wallet is a decentralized, non-custodial wallet that serves as a multi-chain aggregator and is accessible from multiple ends (mobile, web, plugin).\n\nAs a decentralized non-custodial wallet, Gate Wallet features an innovative cloud backup function that uses secure encryption algorithms to address issues like asset loss due to users misplacing or forgetting their mnemonic phrases or private keys.\n\nGate Wallet has expanded its compatibility to support a variety of blockchains, including the Bitcoin network, EVM-compatible chains, Solana, and SUI, allowing users to conduct transactions across different chains without the need to switch between wallets."
+    },
+    {
+        "icon_url": "/assets/projects/meta-collab-win.png",
+        "title": "Meta Collab Win",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://metacollabwin.io"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/MetaCollabWin"
+            }
+        ],
+        "tags": [
+            "GameFi"
+        ],
+        "networks": [],
+        "description": "The world's most unique metaverse+RWA game, earning both virtual and real assets simultaneously through gameplay"
+    },
+    {
+        "icon_url": "/assets/projects/phoenix.png",
+        "title": "Phoenix",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://phoenix.global/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/Phoenix_Chain"
+            },
+            {
+                "title": "GitHub",
+                "url": "https://github.com/phoenixglobal"
+            }
+        ],
+        "tags": [
+            "AI"
+        ],
+        "networks": [],
+        "description": "Phoenix is a decentralized AI elastic compute infrastructure, smart auto-scaling network for AI and deep learning."
+    },
+    {
+        "icon_url": "/assets/projects/zerox-network.png",
+        "title": "ZeroX Network",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://zeroxnetwork.io"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://twitter.com/zeroxgames"
+            }
+        ],
+        "tags": [
+            "NFT"
+        ],
+        "networks": [],
+        "description": "ZeroX Network: Introducing Derivable Asset Utilities (DAUs)\n\nApart from DeFi, blockchain assets (including memecoins, Bitcoin Ordinals and Runes, NFTs, etc.) have substantially been used as digital collectibles, striving for richer utilities — like gaming. Developed based on our award-winning ERC-7672 protocol, ZeroX Network is introducing a novel concept, the Derivable Asset Utilities (DAUs), that facilitates a Utility Layer on top of the current blockchain assets infrastructure to bridge the considerable gap between the assets and traditional applications like games and beyond. Each application in the Utility Layer will empower an independent and tradable Utility towards any supported assets, facilitating versatility and interoperability of traditional blockchain assets. Trading of DAUs distributes Utility Royalties to the underlying blockchain assets, effectively turning the assets into 'golden shovels/geese' for continuous passive income."
+    },
+    {
+        "icon_url": "/assets/projects/neoline.png",
+        "title": "NeoLine",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://neoline.io/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/NEOLine20"
+            }
+        ],
+        "tags": [
+            "Wallet"
+        ],
+        "networks": [],
+        "description": "Multi-wallet platform for digital asset management natively on Neo. The safe and simple way to access blockchain applications and Web3."
+    },
+    {
+        "icon_url": "/assets/projects/aix.png",
+        "title": "AIgentX",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://aigentx.xyz/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/0xAigentx"
+            }
+        ],
+        "tags": [
+            "AI"
+        ],
+        "networks": [],
+        "description": "AIgentX offers robust AIgents and applications, aiding businesses in effectively managing crypto communities and providing seamless, user-friendly blockchain experiences to both clients and individuals across the Web3 landscape."
+    },
+    {
+        "icon_url": "/assets/projects/atomic_wallet.png",
+        "title": "Atomic Wallet",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://atomicwallet.io/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/AtomicWallet"
+            }
+        ],
+        "tags": [
+            "Wallet"
+        ],
+        "networks": [],
+        "description": "Atomic Wallet is a decentralized Cryptocurrency wallet that supports more than 1000+ coins and tokens, providing simplicity, safety, and convenience for its users."
+    }
+]
