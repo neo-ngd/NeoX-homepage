@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+html {
+  @apply antialiased subpixel-antialiased;
+  scroll-behavior: smooth;
+  font-family: "articulat-cf";
+}
+
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+
+.btn-gradient {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(97.43deg, #01E599 -20.54%, #0066FF 132.65%, #FF4581 154.49%);
+  border: 0.48px solid;
+  border-image-source: linear-gradient(180deg, rgba(255, 255, 255, 0.25) 0%, rgba(255, 255, 255, 0) 115.22%);
+  @apply py-1 px-3 rounded-full;
+}
+
+.hero-top-shadow {
+  box-shadow: 0px -4px 4px 0px #00000005;
+}
+
+.gradient-text {
+  background: linear-gradient(90deg, #02DCA3 0.1%, #0066FF 64%, #7B35B9 99%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.box-gradient{
+  background: linear-gradient(89.61deg, #02D9A4 -11.65%, #0066FF 130.75%);
+}
+
+.bg-gradient {
+
+  background: linear-gradient(90.16deg, #00FFB3 -2.13%, #0167FF 76.21%, #FF006B 105.93%);
+
+
+}
