@@ -19,6 +19,7 @@ export default function Navbar() {
                 <div className="hidden lg:flex w-full gap-5 items-center justify-end font-medium">
                     <a href="/#features" className="hover:underline">Features</a>
                     <a href="/#projects" className="hover:underline">Projects</a>
+                    <a href="/#funding" className="hover:underline">Funding</a>
                     <a href="/#resources" className="hover:underline">Use</a>
                     <a href="/#releases" className="hover:underline">Releases</a>
                     <a href="/#news" className="hover:underline">News</a>
