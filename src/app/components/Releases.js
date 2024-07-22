@@ -5,12 +5,13 @@ export default function Releases() {
         {
             "date": "15/07/2024",
             "title": "Gamma TestNet Launch",
-            "url": "https://medium.com/neo-smart-economy/neo-launches-the-neo-x-beta-testnet-0b861b3dd366",
+            "url": "https://medium.com/neo-smart-economy/neo-launches-the-neo-x-gamma-testnet-23440c5cd50b",
             "logs": [
                 "New model for network transaction fee calculation and burning",
                 "Enhanced system contracts for governance",
                 "Transaction reannouncement mechansism",
                 "Security and stability fixes",
+                "Native bridge updates",
             ]
         },
         {

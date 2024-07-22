@@ -4,7 +4,7 @@ export default function News() {
     const posts = [
         {
             "date": "30/04/2024",
-            "image_url": "https://pbs.twimg.com/card_img/1802994165812236288/JB-vCC_7?format=jpg&name=medium",
+            "image_url": "https://blockchainreporter.net/wp-content/uploads/2023/10/nft-art.webp",
             "source": "BlockchainReporter",
             "title": "Neo Collaborates with Fansland to Drive Web3 Adoption in Entertainment Industry",
             "url": "https://blockchainreporter.net/neo-collaborates-with-fansland-to-drive-web3-adoption-in-entertainment-industry/",
