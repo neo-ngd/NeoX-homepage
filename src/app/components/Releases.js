@@ -147,7 +147,7 @@ export default function Releases() {
                                 <p className="font-semibold lg:text-lg hover:underline">
                                     {r.title}
                                 </p>
-                                <ul className="list-disc list-outside text-[#404056] space-y-3">
+                                <ul className="pl-4 list-disc list-outside text-[#404056] space-y-3">
                                     {
                                         r.logs.map((log, logIndex) => (
                                             <li className="font-medium" key={`release-${index}-log-${logIndex}`}>{log}</li>
