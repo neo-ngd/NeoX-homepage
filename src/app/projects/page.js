@@ -4,6 +4,9 @@ import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import ProjectsData from '../data/projects.json'
 import ProjectDialog from "../components/ProjectDialog";
+
+
+
 export default function ProjectsPage() {
 
     const projects = ProjectsData
@@ -47,16 +50,16 @@ export default function ProjectsPage() {
                         </div>
                     </div>
 
-                    <div className="hidden mt-14 border-t border-b lg:flex flex-col lg:flex-row lg:items-center w-full py-5 lg:text-lg font-medium text-[#404056]/75 gap-5">
+                    <div className="hidden mt-14 border-t border-b lg:flex flex-col lg:flex-row lg:items-center w-full py-5 lg:text-lg font-medium text-[#404056]/75 gap-3 overflow-x-auto">
                         <button onClick={(e) => { setSelectedTag(null) }} className={`py-1 px-3 rounded-lg ${selectedTag === null ? "bg-[#02DCA3] text-white" : ""}`}>All</button>
                         {
                             uniqueTags().map((t) => (
-                                <button key={`tag-${t}`} onClick={(e) => { setSelectedTag(t) }} className={`py-1 px-3 rounded-lg ${selectedTag === t ? "bg-[#02DCA3] text-white" : ""}`}>{t}</button>
+                                <button key={`tag-${t}`} onClick={(e) => { setSelectedTag(t) }} className={`py-1 px-3 whitespace-nowrap rounded-lg ${selectedTag === t ? "bg-[#02DCA3] text-white" : ""}`}>{t}</button>
                             ))
                         }
                         <div className="lg:ml-auto flex items-center gap-3">
                             <div className="btn-gradient text-xs font-bold text-white">TESTNET</div>
-                            <p className="font-semibold text-black">Claim Neo X GAS Here</p>
+                            <p className="font-semibold text-black  whitespace-nowrap">Claim Neo X GAS Here</p>
                             <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M1.1416 1.67969L5.28324 5.82133L1.1416 9.96297" stroke="black" strokeWidth="1.60248" strokeLinecap="round" strokeLinejoin="round" />
                             </svg>
@@ -67,8 +70,8 @@ export default function ProjectsPage() {
 
                     <div className="mt-14 grid grid-cols-2 lg:grid-cols-6 gap-6">
                         {
-                            projects.filter((p)=>{return selectedTag ? p.tags.includes(selectedTag) : true}).map((p, index) => (
-                                <div key={`project-${index}`} onClick={(e)=>{setSelectedProject(p)}} className="cursor-pointer flex flex-col gap-5">
+                            projects.filter((p) => { return selectedTag ? p.tags.includes(selectedTag) : true }).map((p, index) => (
+                                <div key={`project-${index}`} onClick={(e) => { setSelectedProject(p) }} className="cursor-pointer flex flex-col gap-5">
                                     <div className="relative rounded-2xl border aspect-square flex items-center justify-center p-8 hover:shadow-lg transition ease-in-out duration-300 hover:cursor-pointer">
                                         <img className="w-20 object-fit" src={p.icon_url} />
                                         <div className="absolute top-3 left-3 flex items-center flex-wrap gap-3">
@@ -93,9 +96,9 @@ export default function ProjectsPage() {
             </div>
 
             {
-                selectedProject ? 
-                <ProjectDialog project={selectedProject} isOpen={selectedProject ? true : false} setIsOpen={(e)=>{setSelectedProject(null)}}/>
-                : null
+                selectedProject ?
+                    <ProjectDialog project={selectedProject} isOpen={selectedProject ? true : false} setIsOpen={(e) => { setSelectedProject(null) }} />
+                    : null
             }
 
 

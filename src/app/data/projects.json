@@ -309,5 +309,47 @@
         ],
         "networks": [],
         "description": "Atomic Wallet is a decentralized Cryptocurrency wallet that supports more than 1000+ coins and tokens, providing simplicity, safety, and convenience for its users."
+    },
+    {
+        "icon_url": "/assets/projects/trendx.png",
+        "title": "TrendX",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://app.trendx.tech/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/TrendX_official"
+            }
+        ],
+        "tags": [
+            "Data Aggregator"
+        ],
+        "networks": [],
+        "description": "TrendX is an AI-driven Web3 trend tracking and intelligent trading one-stop platform."
+    },
+    {
+        "icon_url": "/assets/projects/atomic_wallet.png",
+        "title": "Neon Wallet",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://neonwallet.com/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/coz_official"
+            },
+            {
+                "title": "Github",
+                "url": "https://github.com/CityOfZion/neon-wallet"
+            }
+        ],
+        "tags": [
+            "Wallet"
+        ],
+        "networks": [],
+        "description": "An open source cross-platform light walletfor the NEO blockchain available on Windows, Mac OS, and Linux."
     }
 ]

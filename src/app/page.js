@@ -10,6 +10,13 @@ import Contact from "./components/Contact";
 import Partners from "./components/Partners";
 import Footer from "./components/Footer";
 import Resources from "./components/Resources";
+ 
+export const metadata = {
+  title: `Neo X | Neo's EVM-based sidechain`,
+  description: `Neo X is a fully EVM compatible sidechain featuring Neo's own dBFT consensus mechanism, a native bridge from Neo N3, and anti-MEV capabilities.`,
+}
+ 
+
 export default function Home() {
   return (
     <main className="antialiased w-full flex flex-col">
