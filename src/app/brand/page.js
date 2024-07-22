@@ -27,7 +27,7 @@ export default function BrandPage(props) {
                             <p className="text-lg font-medium opacity-70">Get the complete set of our logo assets in various formats and sizes. This ZIP file includes high-resolution versions suitable for web, print, and other media, ensuring you have the right logo for any application.</p>
                         </div>
                         <div className="lg:ml-auto">
-                            <button className="bg-black text-white font-semibold rounded-full px-5 py-2 w-full flex items-center justify-center">Download</button>
+                            <a href="/assets/brand/logos.zip" target="_blank" className="bg-black text-white font-semibold rounded-full px-5 py-2 w-full flex items-center justify-center">Download</a>
                         </div>
                     </div>
 
