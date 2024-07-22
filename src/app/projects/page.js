@@ -57,14 +57,14 @@ export default function ProjectsPage() {
                                 <button key={`tag-${t}`} onClick={(e) => { setSelectedTag(t) }} className={`py-1 px-3 whitespace-nowrap rounded-lg ${selectedTag === t ? "bg-[#02DCA3] text-white" : ""}`}>{t}</button>
                             ))
                         }
-                        <div className="lg:ml-auto flex items-center gap-3">
+                        <a href="https://neoxwish.ngd.network/" target="_blank" className="lg:ml-auto flex items-center gap-3">
                             <div className="btn-gradient text-xs font-bold text-white">TESTNET</div>
                             <p className="font-semibold text-black  whitespace-nowrap">Claim Neo X GAS Here</p>
                             <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M1.1416 1.67969L5.28324 5.82133L1.1416 9.96297" stroke="black" strokeWidth="1.60248" strokeLinecap="round" strokeLinejoin="round" />
                             </svg>
 
-                        </div>
+                        </a>
                     </div>
 
 
