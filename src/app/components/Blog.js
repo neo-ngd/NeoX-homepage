@@ -3,6 +3,12 @@ import React from "react";
 export default function Blog() {
     const posts = [
         {
+            "date": "18/07/2024",
+            "title": "Neo Launches the Neo X Gamma TestNet",
+            "url": "https://medium.com/neo-smart-economy/neo-launches-the-neo-x-gamma-testnet-23440c5cd50b",
+            "image_url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*dHvJLY9AA6DMCkjTmeBkeA.png",
+        },
+        {
             "date": "14/05/2024",
             "title": "Neo X launches TestNet Bug Bounty Program",
             "url": "https://neo.org/blog/details/4305",

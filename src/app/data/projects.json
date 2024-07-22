@@ -330,7 +330,7 @@
         "description": "TrendX is an AI-driven Web3 trend tracking and intelligent trading one-stop platform."
     },
     {
-        "icon_url": "/assets/projects/atomic_wallet.png",
+        "icon_url": "/assets/projects/neon.jpg",
         "title": "Neon Wallet",
         "links": [
             {
@@ -351,5 +351,24 @@
         ],
         "networks": [],
         "description": "An open source cross-platform light walletfor the NEO blockchain available on Windows, Mac OS, and Linux."
+    },
+    {
+        "icon_url": "/assets/projects/ellipal.png",
+        "title": "Ellipal Hardware Wallet",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://www.ellipal.com/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/ellipalwallet"
+            }
+        ],
+        "tags": [
+            "Wallet"
+        ],
+        "networks": [],
+        "description": "Leader of Air-gapped Cold Wallet | 100% offline non-custodial hardware wallet."
     }
 ]
