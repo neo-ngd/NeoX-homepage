@@ -46,16 +46,52 @@ export default function ElevatePage(props) {
 
     const faqs = [
         {
-            "q": "What types of proposals can I create?",
-            "a": "this is an answer"
+            "q": "Are new projects eligible for grants?",
+            "a": "Yes. Most new projects are eligible for grants through the Elevate Grants Genesis track. Some new projects may be eligible for Elevate Investment if the team has significant achievements in past projects on other chains."
         },
         {
-            "q": "What types of proposals can I create?",
-            "a": "this is an answer"
+            "q": "Can a project apply for multiple tracks within the Elevate Program?",
+            "a": "Generally speaking, a project should apply to one track that suits them the most."
         },
         {
-            "q": "What types of proposals can I create?",
-            "a": "this is an answer"
+            "q": "How should I decide how much funding to request?",
+            "a": "Think about your immediate needs, how your project will contribute to the growth of the Neo X ecosystem, and what you plan to deliver if your application is successful. You should be prepared to justify your funding request with a detailed budget, scope, and milestones."
+        },
+        {
+            "q": "How will the funding be distributed?",
+            "a": "The funding will be distributed in phases according to the agreed-upon proportions. Each phase of funding will be released based on the completion of specific milestones and deliverables outlined in the project plan. This ensures that the funds are allocated efficiently and that the project progresses as scheduled."
+        },
+        {
+            "q": "How long does it take to review Elevate applications?",
+            "a": "The review process for Elevate applications typically takes one month. This timeframe allows our team to thoroughly assess each application and ensure that all criteria are met before making a decision. Applicants will be notified of the outcome promptly after the review period."
+        },
+        {
+            "q": "Can I update my application after submission?",
+            "a": "A representative from Neo’s EcoGrowth team will reach out to you after your submission has been reviewed. You can request to provide additional documents or update information at this time."
+        },
+        {
+            "q": "Can projects that receive an Elevate Grant later apply for Elevate Investment funding?",
+            "a": "Yes. A project that receives an Elevate Grant, meets all of its deliverables, and demonstrates outstanding growth potential may be a suitable candidate to later apply for Elevate Investment."
+        },
+        {
+            "q": "What are the strategic advantages Neo X is looking for in Elevate Investment candidates?",
+            "a": "Neo X is particularly interested in candidates that demonstrate strong strategic advantages. This includes infrastructure projects with a proven track record of success on other blockchain platforms, as well as social and gaming projects with a substantial user base. These types of projects are seen as having high potential for growth and impact within the Neo X ecosystem."
+        },
+        {
+            "q": "Are there any networking or mentoring opportunities available through the Elevate Program?",
+            "a": "Absolutely. We are committed to supporting every project within the Neo X ecosystem. Over the next three months, we will host Neo X meetups and developer events in multiple locations to help projects connect with industry resources more effectively. Additionally, we will provide tailored help based on the project's stage, including support for fundraising, marketing, and other needs."
+        },
+        {
+            "q": "Will there be any follow-up or reporting requirements for funded projects?",
+            "a": "We will regularly compile updates on projects that have received grants and publish these summaries on our Twitter account. This ensures transparency and keeps our community informed about the progress and achievements of funded projects."
+        },
+        {
+            "q": "Can funded projects reapply for additional funding in the future?",
+            "a": "Yes. Projects may reapply for additional funding in the future, on the condition that all deliverables from previous funding have been met and executed at an exceptional standard."
+        },
+        {
+            "q": "Can I reapply if my initial application is not successful?",
+            "a": "Yes. Applicants may take feedback from Neo EcoGrowth on board and reapply for funding after addressing any comments or concerns."
         }
     ]
 
@@ -89,33 +125,33 @@ export default function ElevatePage(props) {
 
                 </div>
                 <div className="z-10 absolute -bottom-36 -right-20 lg:bottom-0 lg:right-0">
-                <svg width="429" height="420" viewBox="0 0 429 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-<mask id="mask0_279_126" maskUnits="userSpaceOnUse" x="0" y="0" width="453" height="420">
-<rect width="453" height="420" transform="matrix(1 0 0 -1 0 420)" fill="white"/>
-</mask>
-<g mask="url(#mask0_279_126)">
-<g filter="url(#filter0_d_279_126)">
-<path d="M507.5 641L285.006 332.152C267.414 307.733 268.887 274.43 288.565 251.659L519 -15" stroke="url(#paint0_linear_279_126)" stroke-width="40"/>
-</g>
-</g>
-<defs>
-<filter id="filter0_d_279_126" x="252.746" y="-28.0769" width="411.387" height="845.767" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="65" dy="100"/>
-<feGaussianBlur stdDeviation="32.5"/>
-<feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.13 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_279_126"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_279_126" result="shape"/>
-</filter>
-<linearGradient id="paint0_linear_279_126" x1="405.5" y1="72" x2="405.5" y2="686.5" gradientUnits="userSpaceOnUse">
-<stop stop-color="#01E599"/>
-<stop offset="0.43" stop-color="#3452E2"/>
-<stop offset="1" stop-color="#FF006B"/>
-</linearGradient>
-</defs>
-</svg>
+                    <svg width="429" height="420" viewBox="0 0 429 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <mask id="mask0_279_126" maskUnits="userSpaceOnUse" x="0" y="0" width="453" height="420">
+                            <rect width="453" height="420" transform="matrix(1 0 0 -1 0 420)" fill="white" />
+                        </mask>
+                        <g mask="url(#mask0_279_126)">
+                            <g filter="url(#filter0_d_279_126)">
+                                <path d="M507.5 641L285.006 332.152C267.414 307.733 268.887 274.43 288.565 251.659L519 -15" stroke="url(#paint0_linear_279_126)" stroke-width="40" />
+                            </g>
+                        </g>
+                        <defs>
+                            <filter id="filter0_d_279_126" x="252.746" y="-28.0769" width="411.387" height="845.767" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+                                <feOffset dx="65" dy="100" />
+                                <feGaussianBlur stdDeviation="32.5" />
+                                <feComposite in2="hardAlpha" operator="out" />
+                                <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.13 0" />
+                                <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_279_126" />
+                                <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_279_126" result="shape" />
+                            </filter>
+                            <linearGradient id="paint0_linear_279_126" x1="405.5" y1="72" x2="405.5" y2="686.5" gradientUnits="userSpaceOnUse">
+                                <stop stop-color="#01E599" />
+                                <stop offset="0.43" stop-color="#3452E2" />
+                                <stop offset="1" stop-color="#FF006B" />
+                            </linearGradient>
+                        </defs>
+                    </svg>
 
                 </div>
                 <div className="max-w-6xl mx-auto w-full px-8 z-40 flex flex-col items-center justify-center">
