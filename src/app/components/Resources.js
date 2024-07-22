@@ -152,7 +152,7 @@ export default function Resources() {
                         </div>
                     </a>
 
-                    <a href="#" target="_blank" className='resource-item group flex-none snap-center w-full flex lg:flex-row flex-col lg:items-center border rounded-xl hover:shadow-lg overflow-hidden lg:h-40 transition ease-in-out duration-300 hover:cursor-pointer'>
+                    <a href="https://neoxwish.ngd.network/" target="_blank" className='resource-item group flex-none snap-center w-full flex lg:flex-row flex-col lg:items-center border rounded-xl hover:shadow-lg overflow-hidden lg:h-40 transition ease-in-out duration-300 hover:cursor-pointer'>
                         <div className='aspect-square flex items-center justify-center box-gradient w-full lg:w-40 h-40'>
                             <svg width="73" height="74" viewBox="0 0 73 74" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <circle cx="36.5" cy="37" r="28.6294" transform="rotate(-14.7444 36.5 37)" stroke="white" stroke-width="2.5" />
