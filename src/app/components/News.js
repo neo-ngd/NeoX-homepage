@@ -3,6 +3,20 @@ import React from "react"
 export default function News() {
     const posts = [
         {
+            "date": "21/06/24",
+            "image_url": "https://static.news.bitcoin.com/wp-content/uploads/2024/06/3-3-news-bytes.png",
+            "source": "koreaittimes",
+            "title": "Neo and Phoenix join forces: Skynet to power new era of AI-enhanced blockchain technology",
+            "url": "https://news.bitcoin.com/neo-and-phoenix-join-forces-skynet-to-power-new-era-of-ai-enhanced-blockchain-technology/",
+        },
+        {
+            "date": "19/06//24",
+            "image_url": "https://www.koreaittimes.com/news/photo/202406/132380_80872_322.png",
+            "source": "koreaittimes",
+            "title": "SubQuery integrating with Neo X for advanced data indexing",
+            "url": "https://www.koreaittimes.com/news/articleView.html?idxno=132380",
+        },
+        {
             "date": "30/04/2024",
             "image_url": "https://blockchainreporter.net/wp-content/uploads/2023/10/nft-art.webp",
             "source": "BlockchainReporter",
