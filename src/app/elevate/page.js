@@ -59,7 +59,7 @@ export default function ElevatePage(props) {
         },
         {
             "q": "How will the funding be distributed?",
-            "a": "The funding will be distributed in phases according to the agreed-upon proportions. Each phase of funding will be released based on the completion of specific milestones and deliverables outlined in the project plan. This ensures that the funds are allocated efficiently and that the project progresses as scheduled."
+            "a": "The funding will be distributed in phases according to the agreed-upon proportions in stablecoin or NEO / GAS tokens, depending on the project. Each phase of funding will be released based on the completion of specific milestones and deliverables outlined in the project’s plan. This ensures that the funds are allocated efficiently and that the project progresses as scheduled."
         },
         {
             "q": "How long does it take to review Elevate applications?",
@@ -75,15 +75,15 @@ export default function ElevatePage(props) {
         },
         {
             "q": "What are the strategic advantages Neo X is looking for in Elevate Investment candidates?",
-            "a": "Neo X is particularly interested in candidates that demonstrate strong strategic advantages. This includes infrastructure projects with a proven track record of success on other blockchain platforms, as well as social and gaming projects with a substantial user base. These types of projects are seen as having high potential for growth and impact within the Neo X ecosystem."
+            "a": "Projects that provide a strategic advantage include infrastructure projects with a proven track record of success on other blockchain platforms, as well as social and gaming projects with a substantial user base. These types of projects are seen as having high potential for growth and impact within the Neo X ecosystem."
         },
         {
             "q": "Are there any networking or mentoring opportunities available through the Elevate Program?",
-            "a": "Absolutely. We are committed to supporting every project within the Neo X ecosystem. Over the next three months, we will host Neo X meetups and developer events in multiple locations to help projects connect with industry resources more effectively. Additionally, we will provide tailored help based on the project's stage, including support for fundraising, marketing, and other needs."
+            "a": "Absolutely. We are committed to supporting every project within the Neo ecosystem. As part of the Neo X launch, we will host Neo meetups and developer events in multiple locations to help projects connect with industry resources more effectively. Additionally, we will provide tailored help based on the project's stage, including support for fundraising, marketing, and other needs."
         },
         {
             "q": "Will there be any follow-up or reporting requirements for funded projects?",
-            "a": "We will regularly compile updates on projects that have received grants and publish these summaries on our Twitter account. This ensures transparency and keeps our community informed about the progress and achievements of funded projects."
+            "a": "Yes. You will be assigned a Neo EcoGrowth team member who you will be responsible to report growth and progress according to your milestones."
         },
         {
             "q": "Can funded projects reapply for additional funding in the future?",
