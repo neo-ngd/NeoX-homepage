@@ -10,7 +10,7 @@ export default function News() {
             "url": "https://news.bitcoin.com/neo-and-phoenix-join-forces-skynet-to-power-new-era-of-ai-enhanced-blockchain-technology/",
         },
         {
-            "date": "19/06//24",
+            "date": "19/06/24",
             "image_url": "https://www.koreaittimes.com/news/photo/202406/132380_80872_322.png",
             "source": "koreaittimes",
             "title": "SubQuery integrating with Neo X for advanced data indexing",
