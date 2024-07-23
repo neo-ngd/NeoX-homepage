@@ -5,7 +5,7 @@ export default function Hero() {
             <div className="max-w-6xl mx-auto w-full py-20 lg:py-32 px-8 z-40">
                 <div className="w-full lg:w-2/3 flex flex-col gap-8">
                     <div>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSemZXX2YzUtcEwxFW13bCNa1EHyJ6YXPSCcNjPwuXu0m_BhKg/viewform" target="_blank" className="inline-flex items-center gap-2 rounded-full border shadow-sm px-3 pr-5 py-2 bg-white">
+                        <a href="/elevate" target="_blank" className="inline-flex items-center gap-2 rounded-full border shadow-sm px-3 pr-5 py-2 bg-white">
                             <span className="text-xs font-bold btn-gradient text-white">OPEN</span>
                             <span className="font-semibold whitespace-nowrap text-sm lg:text-base">$20m in funding available now</span>
                             <svg width="6" height="11" viewBox="0 0 6 11" fill="none" xmlns="http://www.w3.org/2000/svg">
