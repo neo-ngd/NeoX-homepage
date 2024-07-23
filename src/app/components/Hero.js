@@ -7,7 +7,7 @@ export default function Hero() {
                     <div>
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSemZXX2YzUtcEwxFW13bCNa1EHyJ6YXPSCcNjPwuXu0m_BhKg/viewform" target="_blank" className="inline-flex items-center gap-2 rounded-full border shadow-sm px-3 pr-5 py-2 bg-white">
                             <span className="text-xs font-bold btn-gradient text-white">OPEN</span>
-                            <span className="font-semibold whitespace-nowrap text-sm lg:text-base">Join the Early Access Program</span>
+                            <span className="font-semibold whitespace-nowrap text-sm lg:text-base">$20m in funding available now</span>
                             <svg width="6" height="11" viewBox="0 0 6 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M0.957031 1.29688L5.09867 5.43852L0.957031 9.58016" stroke="black" strokeWidth="1.60248" strokeLinecap="round" strokeLinejoin="round" />
                             </svg>
