@@ -311,7 +311,7 @@ export default function ElevatePage(props) {
                                 Partner <span className="opacity-30">Track</span>
                             </p>
                             <p className="font-medium text-lg mt-5 text-[#80808E]">
-                                The Partner track is tailored for established core infrastructure projects that are already operational on other EVM networks. With a total grants pool of $3,000,000, this track aims to support critical infrastructure solutions such as RPC node providers, indexing solutions, oracle networks, and interoperability projects.
+                            The Partner track is tailored for established core infrastructure projects that are already operational on other EVM networks. This track aims to support critical infrastructure solutions such as RPC node providers, indexing solutions, oracle networks, and interoperability projects.
                                 <br /><br />
                                 By providing substantial financial support, the Partner track seeks to enhance the foundational elements of the Neo X ecosystem, ensuring robust performance and seamless integration.
 
