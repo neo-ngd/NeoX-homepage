@@ -58,7 +58,7 @@ export default function Resources() {
 
                 <div id="resource-carousel" className='mt-14 snap-x overflow-hidden  flex overflow-x-auto lg:grid lg:grid-cols-2 gap-6'>
 
-                    <a href="https://testnet.governance.banelabs.org/" target="_blank" className='resource-item group flex-none snap-center w-full flex lg:flex-row flex-col lg:items-center border rounded-xl hover:shadow-lg overflow-hidden lg:h-40 transition ease-in-out duration-300 hover:cursor-pointer'>
+                    <a href="https://xgovernance.neo.org" target="_blank" className='resource-item group flex-none snap-center w-full flex lg:flex-row flex-col lg:items-center border rounded-xl hover:shadow-lg overflow-hidden lg:h-40 transition ease-in-out duration-300 hover:cursor-pointer'>
                         <div className='aspect-square flex items-center justify-center box-gradient w-full lg:w-40 h-40'>
                             <svg width="54" height="56" viewBox="0 0 54 56" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M2 25.7677H52" stroke="white" stroke-width="2.5" />
@@ -89,7 +89,7 @@ export default function Resources() {
                     </a>
 
 
-                    <a href="https://testnet.bridge.banelabs.org/" target="_blank" className='resource-item group flex-none snap-center w-full flex lg:flex-row flex-col lg:items-center border rounded-xl hover:shadow-lg overflow-hidden lg:h-40 transition ease-in-out duration-300 hover:cursor-pointer'>
+                    <a href="https://xbridge.neo.org" target="_blank" className='resource-item group flex-none snap-center w-full flex lg:flex-row flex-col lg:items-center border rounded-xl hover:shadow-lg overflow-hidden lg:h-40 transition ease-in-out duration-300 hover:cursor-pointer'>
                         <div className='aspect-square flex items-center justify-center box-gradient w-full lg:w-40 h-40'>
                             <svg width="68" height="61" viewBox="0 0 68 61" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M10.0415 41.0963C12.8774 48.3612 19.8791 53.1428 27.6778 53.1407C28.5971 53.1404 29.3425 53.8854 29.3428 54.8047C29.343 55.7239 28.598 56.4694 27.6788 56.4696C18.5083 56.4722 10.2752 50.8495 6.94047 42.3069C6.60619 41.4505 7.0294 40.4854 7.88574 40.1511C8.74207 39.8168 9.70725 40.24 10.0415 41.0963ZM35.1656 4.47042C44.336 4.46789 52.5692 10.0905 55.9039 18.6332C56.2381 19.4895 55.8149 20.4547 54.9586 20.789C54.1023 21.1232 53.1371 20.7 52.8028 19.8437C49.9669 12.5788 42.9652 7.79722 35.1665 7.79938C34.2472 7.79963 33.5018 7.05463 33.5016 6.13536C33.5013 5.2161 34.2463 4.47068 35.1656 4.47042Z" fill="white" stroke="url(#paint0_linear_92_4069)" stroke-width="0.5" />
@@ -123,7 +123,7 @@ export default function Resources() {
                         </div>
                     </a>
 
-                    <a href="https://neoxscan.ngd.network/" target="_blank" className='resource-item group flex-none snap-center w-full flex lg:flex-row flex-col lg:items-center border rounded-xl hover:shadow-lg overflow-hidden lg:h-40 transition ease-in-out duration-300 hover:cursor-pointer'>
+                    <a href="https://xexplorer.neo.org" target="_blank" className='resource-item group flex-none snap-center w-full flex lg:flex-row flex-col lg:items-center border rounded-xl hover:shadow-lg overflow-hidden lg:h-40 transition ease-in-out duration-300 hover:cursor-pointer'>
                         <div className='aspect-square flex items-center justify-center box-gradient w-full lg:w-40 h-40'>
                             <svg width="69" height="62" viewBox="0 0 69 62" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M45.4998 35.8282V16.495C45.4989 15.6474 45.2752 14.8149 44.851 14.0811C44.4268 13.3473 43.8171 12.7379 43.0831 12.3142L26.1665 2.64754C25.4318 2.22333 24.5983 2 23.7499 2C22.9015 2 22.068 2.22333 21.3332 2.64754L4.41665 12.3142C3.68263 12.7379 3.07295 13.3473 2.64878 14.0811C2.22461 14.8149 2.00087 15.6474 2 16.495V35.8282C2.00087 36.6758 2.22461 37.5082 2.64878 38.242C3.07295 38.9759 3.68263 39.5852 4.41665 40.009L21.3332 49.6756C22.068 50.0998 22.9015 50.3232 23.7499 50.3232C24.5983 50.3232 25.4318 50.0998 26.1665 49.6756L43.0831 40.009C43.8171 39.5852 44.4268 38.9759 44.851 38.242C45.2752 37.5082 45.4989 36.6758 45.4998 35.8282Z" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
