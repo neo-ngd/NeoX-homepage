@@ -370,5 +370,24 @@
         ],
         "networks": [],
         "description": "Leader of Air-gapped Cold Wallet | 100% offline non-custodial hardware wallet."
+    },
+    {
+        "icon_url": "/assets/projects/blocksec.png",
+        "title": "Blocksec",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://blocksec.com/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/BlockSecTeam"
+            }
+        ],
+        "tags": [
+            "Audit"
+        ],
+        "networks": [],
+        "description": "BlockSec is a full-stack blockchain security service provider. It was founded by top-notch security researchers and experienced experts from academia and industry."
     }
 ]
