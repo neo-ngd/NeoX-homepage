@@ -8,7 +8,7 @@ export default function Contact() {
                     Interested in joining the Neo X ecosystem? Reach out to Neo to discuss potential partnerships, media opportunities, grants, events, and sponsorships.
                 </p>
                 <div className="mt-10">
-                    <a href="mailto:eg@neo.org" className="font-semibold bg-white rounded-full px-5 py-2 text-black">Contact Us</a>
+                    <a href="mailto:neox@neo.org" className="font-semibold bg-white rounded-full px-5 py-2 text-black">Contact Us</a>
                 </div>
             </div>  
 
