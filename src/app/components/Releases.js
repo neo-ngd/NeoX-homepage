@@ -3,6 +3,16 @@ import React from "react"
 export default function Releases() {
     const releases = [
         {
+            "date": "25/07/2024",
+            "title": "MainNet Launch",
+            "url": "https://medium.com/neo-smart-economy/neo-x-mainnet-launches-f524ab7afeb6",
+            "logs": [
+                "dBFT governance with StandBy validators.",
+                "Native bridge with bidirectional bridging between N3 and X.",
+                "Explorer, Governance, and Bridging apps,",
+            ]
+        },
+        {
             "date": "15/07/2024",
             "title": "Gamma TestNet Launch",
             "url": "https://medium.com/neo-smart-economy/neo-launches-the-neo-x-gamma-testnet-23440c5cd50b",
@@ -34,7 +44,7 @@ export default function Releases() {
             ]
         },
         {
-            "date": "29/12/2024",
+            "date": "29/12/2023",
             "title": "Pre-Alpha TestNet Launch",
             "url": "https://medium.com/@neo-blockchain/announcing-the-neo-x-pre-alpha-testnet-launch-4eff78560bdd",
             "logs": [
