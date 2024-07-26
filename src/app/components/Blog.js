@@ -3,6 +3,24 @@ import React from "react";
 export default function Blog() {
     const posts = [
         {
+            "date": "27/07/2024",
+            "image_url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*s4aYM3jrmXeaZf27",
+            "title": "Neo X: A New Brand for a Brand New Era",
+            "url": "https://medium.com/neo-smart-economy/neo-x-a-new-brand-for-a-brand-new-era-e3e3a9cce889",
+        },
+        {
+            "date": "25/07/2024",
+            "image_url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*ZRBFnj1qsMM9Pc74",
+            "title": "Neo launches $20 million Elevate funding program for Neo X",
+            "url": "https://medium.com/neo-smart-economy/neo-launches-20-million-elevate-funding-program-for-neo-x-d9b7653c21d3",
+        },
+        {
+            "date": "25/07/2024",
+            "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*o5Zy01jee3I45Zre",
+            "title": "Neo X MainNet Launches",
+            "url": "https://medium.com/neo-smart-economy/neo-x-mainnet-launches-f524ab7afeb6",
+        },
+        {
             "date": "18/07/2024",
             "title": "Neo Launches the Neo X Gamma TestNet",
             "url": "https://medium.com/neo-smart-economy/neo-launches-the-neo-x-gamma-testnet-23440c5cd50b",
