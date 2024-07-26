@@ -30,7 +30,7 @@ export default function Funding(props) {
                 </div>
 
                 <div>
-                    <img className="z-10 lg:absolute right-0 top-0 h-full" src="/assets/elevate_banner.png" />
+                    <img className="z-10 lg:absolute right-0 top-0 lg:h-full h-72 ml-auto" src="/assets/elevate_banner.png" />
                 </div>
                
             </div>
