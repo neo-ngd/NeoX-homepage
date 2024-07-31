@@ -11,6 +11,7 @@ import Partners from "./components/Partners";
 import Footer from "./components/Footer";
 import Resources from "./components/Resources";
 import Funding from "./components/Funding";
+import NeoPod from "./components/NeoPod";
  
 export const metadata = {
   title: `Neo X | Neo's EVM-based sidechain`,
@@ -25,8 +26,9 @@ export default function Home() {
       <Hero />
       <Features />
       <Projects/>
-      <Resources/>
       <Funding/>
+      <Resources/>
+      <NeoPod/>
       <Releases/>
       <Blog/>
       <News/>
