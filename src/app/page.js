@@ -28,7 +28,7 @@ export default function Home() {
       <Projects/>
       <Funding/>
       <Resources/>
-      {/* <NeoPod/> */}
+      <NeoPod/>
       <Releases/>
       <Blog/>
       <News/>
