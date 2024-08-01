@@ -20,6 +20,7 @@ export default function Navbar() {
                     <a href="/#features" className="hover:underline">Features</a>
                     <a href="/#projects" className="hover:underline">Projects</a>
                     <a href="/#funding" className="hover:underline">Funding</a>
+                    <a href="/#neopod" className="hover:underline">NeoPod</a>
                     <a href="/#resources" className="hover:underline">Use</a>
                     <a href="/#releases" className="hover:underline">Releases</a>
                     <a href="/#news" className="hover:underline">News</a>
@@ -82,7 +83,9 @@ export default function Navbar() {
                         <a href="/#features" onClick={(e)=>{setIsMobileMenuPresented(false)}} className="hover:underline">Features</a>
                         <a href="/#projects" onClick={(e)=>{setIsMobileMenuPresented(false)}} className="hover:underline">Projects</a>
                         <a href="/#resources" onClick={(e)=>{setIsMobileMenuPresented(false)}} className="hover:underline">Use</a>
+                        <a href="/#funding" onClick={(e)=>{setIsMobileMenuPresented(false)}} className="hover:underline">Funding</a>
                         <a href="/#releases" onClick={(e)=>{setIsMobileMenuPresented(false)}} className="hover:underline">Releases</a>
+                        <a href="/#neopod" onClick={(e)=>{setIsMobileMenuPresented(false)}} className="hover:underline">NeoPod</a>
                         <a href="/#news" onClick={(e)=>{setIsMobileMenuPresented(false)}} className="hover:underline">News</a>
                         <a href="/#contact" onClick={(e)=>{setIsMobileMenuPresented(false)}} className="hover:underline">Contact</a>
                         <hr className="opacity-20" />
