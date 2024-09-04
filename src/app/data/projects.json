@@ -17,7 +17,7 @@
             }
         ],
         "tags": [
-            "Infrastructure"
+            "Infra"
         ],
         "networks": [
             
@@ -423,7 +423,7 @@
             }
         ],
         "tags": [
-            "Dex"
+            "DEX"
         ],
         "networks": [],
         "description": "Photon aims to drive the bitcoin ecosystem into its next progressive phase. With a mission to leverage a modular layer 2 stack, we are dedicated to scaling Bitcoin's functionality to enable a rich landscape of decentralised applications (dApps) that seamlessly integrate with the Bitcoin network."
