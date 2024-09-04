@@ -385,9 +385,85 @@
             }
         ],
         "tags": [
-            "Audit"
+            "Security"
         ],
         "networks": [],
         "description": "BlockSec is a full-stack blockchain security service provider. It was founded by top-notch security researchers and experienced experts from academia and industry."
+    },
+    {
+        "icon_url": "/assets/projects/owlx.png",
+        "title": "OwlX",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://www.owlx.ai/#Home"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/OwlX_ai"
+            }
+        ],
+        "tags": [
+            "Data Aggregator"
+        ],
+        "networks": [],
+        "description": "Owlx Is A Blockchain Analytics Platform That Empowers You To Create A Wallet, Fund It, Discover New Tokens, Perform Your Due Diligence And Trade Any Asset Across Multiple Chains."
+    },
+    {
+        "icon_url": "/assets/projects/photon.png",
+        "title": "Photon",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://photonchain.io/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/Photon_Labs"
+            }
+        ],
+        "tags": [
+            "Dex"
+        ],
+        "networks": [],
+        "description": "Photon aims to drive the bitcoin ecosystem into its next progressive phase. With a mission to leverage a modular layer 2 stack, we are dedicated to scaling Bitcoin's functionality to enable a rich landscape of decentralised applications (dApps) that seamlessly integrate with the Bitcoin network."
+    },
+    {
+        "icon_url": "/assets/projects/secure3.png",
+        "title": "Secure3",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://www.secure3.io/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/secure3io"
+            }
+        ],
+        "tags": [
+            "Security"
+        ],
+        "networks": [],
+        "description": "Secure3 is a battlefield where elite auditors compete to safeguard Web3 innovations against security threats."
+    },
+    {
+        "icon_url": "/assets/projects/go+.png",
+        "title": "Go+",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://gopluslabs.io/"
+            },
+            {
+                "title": "Twitter/X",
+                "url": "https://x.com/GoplusSecurity"
+            }
+        ],
+        "tags": [
+            "Security"
+        ],
+        "networks": [],
+        "description": "GoPlus is revolutionizing Web3 user security through its permissionless and user-driven User Security Network, which provides comprehensive protection across the entire user transaction lifecycle."
     }
 ]

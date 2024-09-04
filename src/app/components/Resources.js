@@ -36,6 +36,24 @@ export default function Resources() {
         updateButtons()
     }, [])
 
+    const addNeoXToMetaMask = () => {
+        window.ethereum.request({
+            method: 'wallet_addEthereumChain',
+            params: [{
+                chainId: '0xBA93', // Replace with actual Neo X Mainnet chain ID
+                chainName: 'Neo X Mainnet',
+                nativeCurrency: {
+                    name: 'GAS',
+                    symbol: 'GAS',
+                    decimals: 18
+                },
+                rpcUrls: ['https://mainnet-1.rpc.banelabs.org'], 
+                blockExplorerUrls: ['https://xexplorer.neo.org/']
+            }]
+        }).catch((error) => {
+            console.log(error)
+        })
+    }
 
     return (
         <div className="w-full relative  flex flex-col py-20 lg:py-24">
@@ -48,8 +66,16 @@ export default function Resources() {
 
                     <div className="flex lg:flex-row flex-col lg:items-center gap-5">
                         <p className="lg:text-lg font-medium text-[#404056]">Find resources that will help you navigate, use, and build on the Neo X network. </p>
-                        <div className='lg:ml-auto'>
-                            <a href="https://docs.banelabs.org/" target="_blank" className=" text-white btn-gradient font-semibold text-center text-base">
+                        <div className='lg:ml-auto flex items-center gap-4'>
+                            <button 
+                                onClick={() => {
+                                    addNeoXToMetaMask()
+                                }}
+                                className="font-semibold text-base px-4 py-2 text-[#01C6B3] border border-[#01C6B3] rounded-full whitespace-nowrap"
+                            >
+                                Add Neo X Mainnet
+                            </button>
+                            <a href="https://docs.banelabs.org/" target="_blank" className="!py-2 !px-4 text-white btn-gradient font-semibold text-center text-base">
                                 Go to Docs
                             </a>
                         </div>
