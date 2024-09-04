@@ -38,7 +38,7 @@
             }
         ],
         "tags": [
-            "Infrastructure"
+            "Infra"
         ],
         "networks": [],
         "description": "Tria – Unify user assets with aggregated social login wallets. Enable users to pay gas with any token and bring assets from other ecosystems to your dApp with chain abstraction."
@@ -61,7 +61,7 @@
             }
         ],
         "tags": [
-            "Infrastructure"
+            "Infra"
         ],
         "networks": [],
         "description": "Mystiko is the base layer of Web3. Mystiko operates as a universal ZK SDK, enhancing the scalability, interoperability, and security of blockchains. Mystiko’s SDK enables developers to build blockchain applications that reduce costs, scale effortlessly, securely interact across chains, and protect users’ on-chain identity(account balances, transaction histories, etc.)."
@@ -103,7 +103,7 @@
             }
         ],
         "tags": [
-            "Infrastructure"
+            "Infra"
         ],
         "networks": [],
         "description": "OORT is a decentralized verifiable cloud computing platform for AI applications. \n\nOur network leverages global resources from data centers to local edge devices with a proprietary blockchain-based verification layer to secure all transactions and computations, from data crowdsourcing and labeling, to model training and local inference. \n\nBy harnessing the power of decentralized networks, OORT aims to return value to users while creating a more scalable and equitable future for AGI (Artificial General Intelligence)."
@@ -126,7 +126,7 @@
             }
         ],
         "tags": [
-            "Infrastructure"
+            "Infra"
         ],
         "networks": [],
         "description": "ZNS Connect is your go-to platform for seamless Web3 interactions. It simplifies the complexity of Web3 by replacing cumbersome addresses with user-friendly names, making it a breeze for users to navigate and transact."
@@ -149,7 +149,7 @@
             }
         ],
         "tags": [
-            "Infrastructure"
+            "Infra"
         ],
         "networks": [],
         "description": "Rangers Protocol is the backbone of a Web3 Engine for creating immersive Web3 applications. It provides comprehensive infrastructures for complex blockchain-application development, efficient Ethereum-compatible smart contract deployment, ultimate NFT cross-chain interoperability, and developer-friendly IDEs. Through building strategic partnerships in relevant industries, Rangers Protocol supports blockchain entrepreneurs to succeed in the Web3 world. Rangers Protocol minimizes the development difficulty for Web3 developers and maximizes the user experience of its Web3 applications."
