@@ -292,7 +292,7 @@ export default function ElevatePage(props) {
                                 This track is also ideal for development environments, open-source tools, and libraries such as wallets, explorers, and on-chain data aggregators, as well as educational initiatives and community-building activities like hackathons, tutorials, and social events.
                             </p>
                             <div className="mt-12 w-full">
-                                <a target="_blank" href="https://26c9q46ivdh.typeform.com/NeoXElevate" className="flex text-center items-center lg:inline-block justify-center font-semibold text-white bg-black rounded-full px-5 py-2">Apply Now</a>
+                                <a target="_blank" href="https://forms.gle/6Y9txo7C79X4pt6E7" className="flex text-center items-center lg:inline-block justify-center font-semibold text-white bg-black rounded-full px-5 py-2">Apply Now</a>
                             </div>
                         </div>
                     </div>
@@ -318,7 +318,7 @@ export default function ElevatePage(props) {
                             </p>
 
                             <div className="mt-12 w-full">
-                                <a target="_blank" href="https://26c9q46ivdh.typeform.com/NeoXElevate" className="flex text-center items-center lg:inline-block justify-center font-semibold text-white bg-black rounded-full px-5 py-2">Apply Now</a>
+                                <a target="_blank" href="https://forms.gle/6Y9txo7C79X4pt6E7" className="flex text-center items-center lg:inline-block justify-center font-semibold text-white bg-black rounded-full px-5 py-2">Apply Now</a>
                             </div>
                         </div>
                     </div>
