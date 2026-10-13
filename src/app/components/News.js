@@ -24,27 +24,6 @@ export default function News() {
             "image_url": "https://neonewstoday.com/wp-content/uploads/2026/09/neo-x-usdc-weth-1.png"
         },
         {
-            "date": "30/07/2026",
-            "title": "R3E Network expands Neo MCP Server to dual-chain support, adds AI assistant to neo3scan",
-            "source": "Neo News Today",
-            "url": "https://neonewstoday.com/ai/r3e-network-expands-neo-mcp-server-to-dual-chain-support-adds-ai-assistant-to-neo3scan/",
-            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/07/r3e-network-neo-mcp.png"
-        },
-        {
-            "date": "22/07/2026",
-            "title": "R3E Network releases neox-rs, first alternative full-node client for Neo X",
-            "source": "Neo News Today",
-            "url": "https://neonewstoday.com/development/r3e-network-releases-neox-rs-first-alternative-full-node-client-for-neo-x/",
-            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/07/r3e-network-neox-rs.png"
-        },
-        {
-            "date": "17/07/2026",
-            "title": "AxLabs launches Ax402 payment gateway for AI agents",
-            "source": "Neo News Today",
-            "url": "https://neonewstoday.com/ai/axlabs-launches-ax402-payment-gateway-for-ai-agents/",
-            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/07/neo-x-ax402.png"
-        },
-        {
             "date": "07/07/2026",
             "title": "BitGo brings institutional-grade custody infrastructure to Neo X",
             "source": "Neo News Today",
@@ -71,6 +50,13 @@ export default function News() {
             "source": "Neo News Today",
             "url": "https://neonewstoday.com/ai/da-hongfei-positions-neo-x-as-ai-agent-native-blockchain-in-new-strategy-outline/",
             "image_url": "https://neonewstoday.com/wp-content/uploads/2026/03/neo-x-ai-agents.png"
+        },
+        {
+            "date": "15/09/2025",
+            "title": "Neo X Blockchain Launches MEV Protection on Mainnet",
+            "source": "U.Today",
+            "url": "https://u.today/neo-x-blockchain-launches-mev-protection-on-mainnet",
+            "image_url": "https://u.today/sites/default/files/styles/1200x/public/2025-09/s9050.jpg.webp"
         }
     ]
 

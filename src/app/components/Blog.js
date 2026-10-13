@@ -33,34 +33,16 @@ export default function Blog() {
             "image_url": "https://pbs.twimg.com/media/HMmhOfIbIAAmDEW?format=png&name=small"
         },
         {
-            "date": "24/06/2026",
-            "title": "Neo X MainNet v0.6.1 Upgrade Announcement",
-            "url": "https://neo.org/blog/details/4339",
-            "image_url": "https://neo.org/upload/2b479ef4042e27ff9945.jpg"
-        },
-        {
             "date": "16/06/2026",
             "title": "Play Rock Paper Scissors and Experience Anti-MEV on Neo X",
             "url": "https://x.com/ngd_neo/status/2066793344261365884",
             "image_url": "https://pbs.twimg.com/media/HK625LkbEAA3geW?format=jpg&name=small"
         },
         {
-            "date": "11/06/2026",
-            "title": "Neo X TestNet v0.6.0 Upgrade Announcement",
-            "url": "https://neo.org/blog/details/4337",
-            "image_url": "https://neo.org/upload/7e073ce4e8ada8cd07b7.jpg"
-        },
-        {
             "date": "14/04/2026",
             "title": "Neo Partners with LayerZero to Expand Neo X Cross-Chain Connectivity",
             "url": "https://x.com/ngd_neo/status/2043905657213202598",
             "image_url": "https://pbs.twimg.com/media/HF1pTSJasAADG6w?format=jpg&name=small"
-        },
-        {
-            "date": "18/03/2026",
-            "title": "Neo X MainNet v0.5.3 Upgrade Announcement",
-            "url": "https://neo.org/blog/details/4335",
-            "image_url": "https://neo.org/upload/20db1bd2b8d9d1c295a3.jpg"
         },
         {
             "date": "15/12/2025",
@@ -79,12 +61,6 @@ export default function Blog() {
             "title": "Neo X MainNet v0.4.2 Upgrade: Anti-MEV Now Live",
             "url": "https://neo.org/blog/details/4326",
             "image_url": "https://neo.org/upload/d72142c0e3259e058753.jpg"
-        },
-        {
-            "date": "20/08/2025",
-            "title": "Zero-Knowledge Encryption Protocol for Neo X DKG Successfully Audited by Hacken",
-            "url": "https://neo.org/blog/details/4323",
-            "image_url": "https://neo.org/upload/6c9fa806a5f94e5a8c63.jpg"
         }
     ]
 
