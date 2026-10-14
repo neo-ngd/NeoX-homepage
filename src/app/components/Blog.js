@@ -3,65 +3,65 @@ import React from "react";
 export default function Blog() {
     const posts = [
         {
-            "date": "27/07/2024",
-            "image_url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*s4aYM3jrmXeaZf27",
-            "title": "Neo X: A New Brand for a Brand New Era",
-            "url": "https://medium.com/neo-smart-economy/neo-x-a-new-brand-for-a-brand-new-era-e3e3a9cce889",
+            "date": "21/09/2026",
+            "title": "Try WhisperDark: Experience Autonomous AI Payments on Neo X",
+            "url": "https://x.com/ngd_neo/status/2101946949142474760",
+            "image_url": "https://pbs.twimg.com/media/HSubNSpasAAEq-5?format=jpg&name=small"
         },
         {
-            "date": "25/07/2024",
-            "image_url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*ZRBFnj1qsMM9Pc74",
-            "title": "Neo launches $20 million Elevate funding program for Neo X",
-            "url": "https://medium.com/neo-smart-economy/neo-launches-20-million-elevate-funding-program-for-neo-x-d9b7653c21d3",
+            "date": "18/09/2026",
+            "title": "Neo 3650: Turn the First Decade of Neo MainNet into Art and Mint It Onchain",
+            "url": "https://x.com/ngd_neo/status/2100885034781880557",
+            "image_url": "https://pbs.twimg.com/media/HSfW5yva4AABkAp?format=jpg&name=small"
         },
         {
-            "date": "25/07/2024",
-            "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*o5Zy01jee3I45Zre",
-            "title": "Neo X MainNet Launches",
-            "url": "https://medium.com/neo-smart-economy/neo-x-mainnet-launches-f524ab7afeb6",
+            "date": "14/09/2026",
+            "title": "USDC.e and WETH Now Available on Neo X via Transporter",
+            "url": "https://x.com/ngd_neo/status/2099422916354228572",
+            "image_url": "https://pbs.twimg.com/media/HSKix8NbQAA8unZ?format=jpg&name=small"
         },
         {
-            "date": "18/07/2024",
-            "title": "Neo Launches the Neo X Gamma TestNet",
-            "url": "https://medium.com/neo-smart-economy/neo-launches-the-neo-x-gamma-testnet-23440c5cd50b",
-            "image_url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*dHvJLY9AA6DMCkjTmeBkeA.png",
+            "date": "10/08/2026",
+            "title": "Neo X MainNet v0.6.2 Upgrade Announcement",
+            "url": "https://neo.org/blog/details/4341",
+            "image_url": "https://neo.org/upload/275484b8ed434aff47ad.jpg"
         },
         {
-            "date": "14/05/2024",
-            "title": "Neo X launches TestNet Bug Bounty Program",
-            "url": "https://neo.org/blog/details/4305",
-            "image_url": "https://neo.org/upload/7111e3ecfdcc2a23182c.jpg",
+            "date": "07/07/2026",
+            "title": "BitGo Integrates the Neo X Network",
+            "url": "https://x.com/ngd_neo/status/2074372846420197441",
+            "image_url": "https://pbs.twimg.com/media/HMmhOfIbIAAmDEW?format=png&name=small"
         },
         {
-            "date": "22/04/2024",
-            "title": "Neo launches the Neo X Beta TestNet, more information on GAS utility revealed",
-            "url": "https://medium.com/neo-smart-economy/neo-launches-the-neo-x-beta-testnet-0b861b3dd366",
-            "image_url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*QqUxQCKoDb_P9HU2",
+            "date": "16/06/2026",
+            "title": "Play Rock Paper Scissors and Experience Anti-MEV on Neo X",
+            "url": "https://x.com/ngd_neo/status/2066793344261365884",
+            "image_url": "https://pbs.twimg.com/media/HK625LkbEAA3geW?format=jpg&name=small"
         },
         {
-            "date": "28/02/2024",
-            "title": "How Neo eliminates Toxic MEV",
-            "url": "https://neo-blockchain.medium.com/how-neo-eliminates-toxic-mev-d0ecd3ff5717",
-            "image_url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*IWnWS8MYvB3kZNF9",
+            "date": "14/04/2026",
+            "title": "Neo Partners with LayerZero to Expand Neo X Cross-Chain Connectivity",
+            "url": "https://x.com/ngd_neo/status/2043905657213202598",
+            "image_url": "https://pbs.twimg.com/media/HF1pTSJasAADG6w?format=jpg&name=small"
         },
         {
-            "date": "31/01/2024",
-            "title": "Neo launches the Neo X Alpha TestNet",
-            "url": "https://neo-blockchain.medium.com/neo-launches-the-neo-x-alpha-testnet-d791a1eed5ad",
-            "image_url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Kvmitoee16NZJ1ed",
+            "date": "15/12/2025",
+            "title": "Introducing the Message Bridge on the Neo Ecosystem",
+            "url": "https://neo.org/blog/details/4329",
+            "image_url": "https://neo.org/upload/ea3d4833910858cf89d7.jpg"
         },
         {
-            "date": "29/12/2023",
-            "title": "Announcing the Neo X Pre-Alpha TestNet launch",
-            "url": "https://neo-blockchain.medium.com/announcing-the-neo-x-pre-alpha-testnet-launch-4eff78560bdd",
-            "image_url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*HHl3ptLqkNBotH8Z",
+            "date": "29/10/2025",
+            "title": "Opening the Neo X Core Repositories to the Community",
+            "url": "https://neo.org/blog/details/4327",
+            "image_url": "https://neo.org/upload/38ba75ae8c3f63f1b24a.jpg"
         },
         {
-            "date": "27/10/2023",
-            "title": "Neo opens a new chapter with EVM-compatible, MEV-resistant sidechain",
-            "url": "https://neo-blockchain.medium.com/neo-to-open-a-new-chapter-with-evm-compatible-mev-resistant-sidechain-44d99dd5b1c2",
-            "image_url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Qdc6ORAyYJTXm5nmdV4Gog.png",
-        },
+            "date": "15/09/2025",
+            "title": "Neo X MainNet v0.4.2 Upgrade: Anti-MEV Now Live",
+            "url": "https://neo.org/blog/details/4326",
+            "image_url": "https://neo.org/upload/d72142c0e3259e058753.jpg"
+        }
     ]
 
     React.useEffect(() => {

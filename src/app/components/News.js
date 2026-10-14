@@ -3,61 +3,61 @@ import React from "react"
 export default function News() {
     const posts = [
         {
-            "date": "21/06/2024",
-            "image_url": "https://static.news.bitcoin.com/wp-content/uploads/2024/06/3-3-news-bytes.png",
-            "source": "koreaittimes",
-            "title": "Neo and Phoenix join forces: Skynet to power new era of AI-enhanced blockchain technology",
-            "url": "https://news.bitcoin.com/neo-and-phoenix-join-forces-skynet-to-power-new-era-of-ai-enhanced-blockchain-technology/",
+            "date": "21/09/2026",
+            "title": "NGD launches WhisperDark, a dungeon-crawler where an AI agent spends real xGAS",
+            "source": "Neo News Today",
+            "url": "https://neonewstoday.com/gaming/ngd-launches-whisperdark-a-dungeon-crawler-where-an-ai-agent-spends-real-xgas/",
+            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/09/neo-x-whisperdark-1.png"
         },
         {
-            "date": "19/06/2024",
-            "image_url": "https://www.koreaittimes.com/news/photo/202406/132380_80872_322.png",
-            "source": "koreaittimes",
-            "title": "SubQuery integrating with Neo X for advanced data indexing",
-            "url": "https://www.koreaittimes.com/news/articleView.html?idxno=132380",
+            "date": "15/09/2026",
+            "title": "AxLabs ships full Ax402 stack on Neo X",
+            "source": "Neo News Today",
+            "url": "https://neonewstoday.com/development/axlabs-ships-full-ax402-stack-on-neo-x/",
+            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/07/neo-x-ax402.png"
         },
         {
-            "date": "30/04/2024",
-            "image_url": "https://blockchainreporter.net/wp-content/uploads/2023/10/nft-art.webp",
-            "source": "BlockchainReporter",
-            "title": "Neo Collaborates with Fansland to Drive Web3 Adoption in Entertainment Industry",
-            "url": "https://blockchainreporter.net/neo-collaborates-with-fansland-to-drive-web3-adoption-in-entertainment-industry/",
+            "date": "14/09/2026",
+            "title": "USDC, WETH arrive on Neo X through Chainlink CCIP-powered Transporter bridge",
+            "source": "Neo News Today",
+            "url": "https://neonewstoday.com/general/usdc-weth-arrive-on-neo-x-through-chainlink-ccip-powered-transporter-bridge/",
+            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/09/neo-x-usdc-weth-1.png"
         },
         {
-            "date": "11/03/2024",
-            "source": "Blockster",
-            "title": "Decrypting MEV: Da Hongfei on Neo's MEV-Resistant Solutions",
-            "url": "https://blockster.com/decrypting-mev-da-hongfei-on-neos-mev-resistant-solutions",
-            "image_url": "https://ik.imagekit.io/blockster/254aa721-320d-4c50-acdf-3de4fe58fd8c.png?tr=w-400,h-400#keepProtocol"
+            "date": "07/07/2026",
+            "title": "BitGo brings institutional-grade custody infrastructure to Neo X",
+            "source": "Neo News Today",
+            "url": "https://neonewstoday.com/general/bitgo-brings-institutional-grade-custody-infrastructure-to-neo-x/",
+            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/07/bitgo-neo-x-integration.png"
         },
         {
-            "date": "27/02/2024",
-            "title": "This EVM-compatible blockchain seeks to annihilate toxic MEV",
-            "source": "CoinTelegraph",
-            "url": "https://cointelegraph.com/news/this-evm-compatible-blockchain-seeks-to-annihilate-toxic-mev",
-            "image_url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=717/https://s3.cointelegraph.com/storage/uploads/view/d62bf77b100075acdb7d755a2da9e4de.jpg"
+            "date": "15/04/2026",
+            "title": "Neo X goes live on LayerZero, connecting to 170+ chain ecosystem",
+            "source": "Neo News Today",
+            "url": "https://neonewstoday.com/general/neo-x-goes-live-on-layerzero-connecting-to-170-chain-ecosystem/",
+            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/04/layerzero-neo-x.png"
         },
         {
-            "date": "13/02/2024",
-            "source": "Bitcoin News",
-            "title": "As the blockchain industry loses billions annually to MEV, the solution is staring us in the face",
-            "url": "https://news.bitcoin.com/as-the-blockchain-industry-loses-billions-annually-to-mev-the-solution-is-staring-us-in-the-face-neo-founder-da-hongfei/",
-            "image_url": "https://static.news.bitcoin.com/wp-content/uploads/2024/02/hhhggggg.jpg"
+            "date": "04/03/2026",
+            "title": "COZ releases AppKit adapters enabling unified wallet connections for Neo N3 and Neo X dApps",
+            "source": "Neo News Today",
+            "url": "https://neonewstoday.com/development/coz-releases-appkit-adapters-enabling-unified-wallet-connections-for-neo-n3-and-neo-x-dapps/",
+            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/03/coz-appkit-adaptors.png"
         },
         {
-            "date": "29/01/2024",
-            "source": "Cryptopolitan",
-            "title": "Neo bolsters Web3 ambitions with new Hong Kong office and CyberPort collaboration",
-            "url": "https://www.cryptopolitan.com/neo-web3-hong-kong-cyberport-collaboration/",
-            "image_url": "https://www.cryptopolitan.com/wp-content/uploads/2024/01/DALL%C2%B7E-2024-01-29-21.44.05-Create-an-abstract-image-representing-the-strategic-expansion-and-innovative-collaboration-between-a-blockchain-platform-and-a-digital-tech-hub.-Inclu.jpg.webp"
+            "date": "03/03/2026",
+            "title": "Da Hongfei positions Neo X as AI-agent-native blockchain in new strategy outline",
+            "source": "Neo News Today",
+            "url": "https://neonewstoday.com/ai/da-hongfei-positions-neo-x-as-ai-agent-native-blockchain-in-new-strategy-outline/",
+            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/03/neo-x-ai-agents.png"
         },
         {
-            "date": "22/01/2024",
-            "source": "BlockchainReporter",
-            "title": "Neo joins Web3 KYC Alliance in landmark move",
-            "url": "https://blockchainreporter.net/neo-joins-web3-kyc-alliance-in-landmark-move/",
-            "image_url": "https://blockchainreporter.net/wp-content/uploads/2024/01/green-kyc-block-1140x570.webp"
-        },
+            "date": "15/09/2025",
+            "title": "Neo X Blockchain Launches MEV Protection on Mainnet",
+            "source": "U.Today",
+            "url": "https://u.today/neo-x-blockchain-launches-mev-protection-on-mainnet",
+            "image_url": "https://u.today/sites/default/files/styles/1200x/public/2025-09/s9050.jpg.webp"
+        }
     ]
 
     React.useEffect(() => {
