@@ -1,0 +1,126 @@
+{
+    "2024": {
+        "Q1": {
+            "color": "#04DAA9",
+            "items": [
+                {
+                    "title": "Neo X Mainnet Launch",
+                    "description": "Official launch of Neo X mainnet with full EVM compatibility and dBFT consensus mechanism",
+                    "done": true
+                },
+                {
+                    "title": "Native Bridge Integration", 
+                    "description": "Deployment of secure bridge between Neo N3 and Neo X for seamless asset transfers",
+                    "done": false
+                }
+            ]
+        },
+        "Q2": {
+            "color": "#0287EF",
+            "items": [
+                {
+                    "title": "Developer Tools Enhancement",
+                    "description": "Release of comprehensive SDK and development tools for Neo X",
+                    "done": false
+                },
+                {
+                    "title": "DeFi Protocol Integration",
+                    "description": "Partnership with major DeFi protocols to build on Neo X",
+                    "done": false
+                }
+            ]
+        },
+        "Q3": {
+            "color": "#5D4DC1",
+            "items": [
+                {
+                    "title": "Cross-chain Interoperability",
+                    "description": "Implementation of additional cross-chain bridges with other major blockchains",
+                    "done": false
+                },
+                {
+                    "title": "Anti-MEV Features",
+                    "description": "Enhancement of anti-MEV capabilities to ensure fair transaction ordering",
+                    "done": false
+                }
+            ]
+        },
+        "Q4": {
+            "color": "#9747FF",
+            "items": [
+                {
+                    "title": "Ecosystem Growth Initiative",
+                    "description": "Launch of grants program to accelerate ecosystem development",
+                    "done": false
+                },
+                {
+                    "title": "Performance Optimization",
+                    "description": "Network upgrades to improve transaction throughput and reduce fees",
+                    "done": false
+                }
+            ]
+        }
+    },
+    "2025": {
+        "Q1": {
+            "color": "#04DAA9",
+            "items": [
+                {
+                    "title": "Layer 2 Solutions",
+                    "description": "Research and development of Layer 2 scaling solutions",
+                    "done": false
+                },
+                {
+                    "title": "Enterprise Integration",
+                    "description": "Development of enterprise-focused features and partnerships",
+                    "done": false
+                }
+            ]
+        },
+        "Q2": {
+            "color": "#0287EF",
+            "items": [
+                {
+                    "title": "Privacy Features",
+                    "description": "Implementation of optional privacy features for transactions",
+                    "done": false
+                },
+                {
+                    "title": "Governance Framework",
+                    "description": "Introduction of decentralized governance mechanisms",
+                    "done": false
+                }
+            ]
+        },
+        "Q3": {
+            "color": "#5D4DC1",
+            "items": [
+                {
+                    "title": "Smart Contract Templates",
+                    "description": "Launch of standardized smart contract templates for common use cases",
+                    "done": false
+                },
+                {
+                    "title": "Cross-chain DEX",
+                    "description": "Development of native cross-chain decentralized exchange",
+                    "done": false
+                }
+            ]
+        },
+        "Q4": {
+            "color": "#9747FF",
+            "items": [
+                {
+                    "title": "IoT Integration",
+                    "description": "Implementation of IoT-specific features and protocols",
+                    "done": false
+                },
+                {
+                    "title": "Ecosystem Expansion",
+                    "description": "Major partnerships and integrations with global blockchain projects",
+                    "done": false
+                }
+            ]
+        }
+    }
+}

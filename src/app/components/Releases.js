@@ -126,13 +126,20 @@ export default function Releases() {
                                 </svg>
                             </button>
                         </div>
-
+                    </div>
+                    <div className=" mt-8 inline-flex">
+                    <a href="/roadmap" className="!py-2 !px-4 text-white btn-gradient font-semibold text-center text-base">
+                    Go to Roadmap
+                            </a>
                     </div>
                 </div>
+
+               
 
             </div>
 
             <div className="w-full relative">
+
 
 
                 <div id="release-scrollable-div" className="snap-x pt-14 relative xl:pl-52 w-full px-8 z-40 overflow-x-hidden flex items-start gap-6 ">
