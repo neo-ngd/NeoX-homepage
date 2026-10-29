@@ -1,64 +1,7 @@
 'use client';
 import React from "react"
+import posts from "../data/news.json";
 export default function News() {
-    const posts = [
-        {
-            "date": "21/09/2026",
-            "title": "NGD launches WhisperDark, a dungeon-crawler where an AI agent spends real xGAS",
-            "source": "Neo News Today",
-            "url": "https://neonewstoday.com/gaming/ngd-launches-whisperdark-a-dungeon-crawler-where-an-ai-agent-spends-real-xgas/",
-            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/09/neo-x-whisperdark-1.png"
-        },
-        {
-            "date": "15/09/2026",
-            "title": "AxLabs ships full Ax402 stack on Neo X",
-            "source": "Neo News Today",
-            "url": "https://neonewstoday.com/development/axlabs-ships-full-ax402-stack-on-neo-x/",
-            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/07/neo-x-ax402.png"
-        },
-        {
-            "date": "14/09/2026",
-            "title": "USDC, WETH arrive on Neo X through Chainlink CCIP-powered Transporter bridge",
-            "source": "Neo News Today",
-            "url": "https://neonewstoday.com/general/usdc-weth-arrive-on-neo-x-through-chainlink-ccip-powered-transporter-bridge/",
-            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/09/neo-x-usdc-weth-1.png"
-        },
-        {
-            "date": "07/07/2026",
-            "title": "BitGo brings institutional-grade custody infrastructure to Neo X",
-            "source": "Neo News Today",
-            "url": "https://neonewstoday.com/general/bitgo-brings-institutional-grade-custody-infrastructure-to-neo-x/",
-            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/07/bitgo-neo-x-integration.png"
-        },
-        {
-            "date": "15/04/2026",
-            "title": "Neo X goes live on LayerZero, connecting to 170+ chain ecosystem",
-            "source": "Neo News Today",
-            "url": "https://neonewstoday.com/general/neo-x-goes-live-on-layerzero-connecting-to-170-chain-ecosystem/",
-            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/04/layerzero-neo-x.png"
-        },
-        {
-            "date": "04/03/2026",
-            "title": "COZ releases AppKit adapters enabling unified wallet connections for Neo N3 and Neo X dApps",
-            "source": "Neo News Today",
-            "url": "https://neonewstoday.com/development/coz-releases-appkit-adapters-enabling-unified-wallet-connections-for-neo-n3-and-neo-x-dapps/",
-            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/03/coz-appkit-adaptors.png"
-        },
-        {
-            "date": "03/03/2026",
-            "title": "Da Hongfei positions Neo X as AI-agent-native blockchain in new strategy outline",
-            "source": "Neo News Today",
-            "url": "https://neonewstoday.com/ai/da-hongfei-positions-neo-x-as-ai-agent-native-blockchain-in-new-strategy-outline/",
-            "image_url": "https://neonewstoday.com/wp-content/uploads/2026/03/neo-x-ai-agents.png"
-        },
-        {
-            "date": "15/09/2025",
-            "title": "Neo X Blockchain Launches MEV Protection on Mainnet",
-            "source": "U.Today",
-            "url": "https://u.today/neo-x-blockchain-launches-mev-protection-on-mainnet",
-            "image_url": "https://u.today/sites/default/files/styles/1200x/public/2025-09/s9050.jpg.webp"
-        }
-    ]
 
     React.useEffect(() => {
         const carousel = document.getElementById("news-scrollable-div")

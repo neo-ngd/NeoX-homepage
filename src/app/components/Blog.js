@@ -1,68 +1,7 @@
 'use client';
 import React from "react";
+import posts from "../data/blog.json";
 export default function Blog() {
-    const posts = [
-        {
-            "date": "21/09/2026",
-            "title": "Try WhisperDark: Experience Autonomous AI Payments on Neo X",
-            "url": "https://x.com/ngd_neo/status/2101946949142474760",
-            "image_url": "https://pbs.twimg.com/media/HSubNSpasAAEq-5?format=jpg&name=small"
-        },
-        {
-            "date": "18/09/2026",
-            "title": "Neo 3650: Turn the First Decade of Neo MainNet into Art and Mint It Onchain",
-            "url": "https://x.com/ngd_neo/status/2100885034781880557",
-            "image_url": "https://pbs.twimg.com/media/HSfW5yva4AABkAp?format=jpg&name=small"
-        },
-        {
-            "date": "14/09/2026",
-            "title": "USDC.e and WETH Now Available on Neo X via Transporter",
-            "url": "https://x.com/ngd_neo/status/2099422916354228572",
-            "image_url": "https://pbs.twimg.com/media/HSKix8NbQAA8unZ?format=jpg&name=small"
-        },
-        {
-            "date": "10/08/2026",
-            "title": "Neo X MainNet v0.6.2 Upgrade Announcement",
-            "url": "https://neo.org/blog/details/4341",
-            "image_url": "https://neo.org/upload/275484b8ed434aff47ad.jpg"
-        },
-        {
-            "date": "07/07/2026",
-            "title": "BitGo Integrates the Neo X Network",
-            "url": "https://x.com/ngd_neo/status/2074372846420197441",
-            "image_url": "https://pbs.twimg.com/media/HMmhOfIbIAAmDEW?format=png&name=small"
-        },
-        {
-            "date": "16/06/2026",
-            "title": "Play Rock Paper Scissors and Experience Anti-MEV on Neo X",
-            "url": "https://x.com/ngd_neo/status/2066793344261365884",
-            "image_url": "https://pbs.twimg.com/media/HK625LkbEAA3geW?format=jpg&name=small"
-        },
-        {
-            "date": "14/04/2026",
-            "title": "Neo Partners with LayerZero to Expand Neo X Cross-Chain Connectivity",
-            "url": "https://x.com/ngd_neo/status/2043905657213202598",
-            "image_url": "https://pbs.twimg.com/media/HF1pTSJasAADG6w?format=jpg&name=small"
-        },
-        {
-            "date": "15/12/2025",
-            "title": "Introducing the Message Bridge on the Neo Ecosystem",
-            "url": "https://neo.org/blog/details/4329",
-            "image_url": "https://neo.org/upload/ea3d4833910858cf89d7.jpg"
-        },
-        {
-            "date": "29/10/2025",
-            "title": "Opening the Neo X Core Repositories to the Community",
-            "url": "https://neo.org/blog/details/4327",
-            "image_url": "https://neo.org/upload/38ba75ae8c3f63f1b24a.jpg"
-        },
-        {
-            "date": "15/09/2025",
-            "title": "Neo X MainNet v0.4.2 Upgrade: Anti-MEV Now Live",
-            "url": "https://neo.org/blog/details/4326",
-            "image_url": "https://neo.org/upload/d72142c0e3259e058753.jpg"
-        }
-    ]
 
     React.useEffect(() => {
         const carousel = document.getElementById("blog-scrollable-div")
